@@ -1,3 +1,37 @@
 // Place all the styles related to the People controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+  border-top: 5px solid #d35400;
+  
+}
+
+h1 {
+  font-family: 'Balthazar', serif;
+  font-size: 48px;
+  padding: 50px 0; 
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: 'Balthazar', serif;
+  font-size: 24px;
+  padding: 50px 0;
+}
+
+h3 {
+ font-family: 'Balthazar', serf;
+  font-size: 18px;
+  padding: 40px 0 20px 0 ;
+  font-style: underline;
+}
+p {
+  font-family: 'helvetica', sans;
+}
+
+a {
+ font-family: 'Balthazar', serif
+}
+
+
